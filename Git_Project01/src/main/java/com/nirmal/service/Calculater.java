@@ -2,7 +2,7 @@ package com.nirmal.service;
 
 public class Calculater 
 {
-	public int doSum(int x,int y)
+	public double doSum(double x,double y)
 	{
 		return x+y;
 	}
