@@ -4,7 +4,7 @@ public class Calculater
 {
 	public double doSum(double x,double y)
 	{
-		return x+y;
+		return (x*x)+(y*y);
 	}
 
 }
