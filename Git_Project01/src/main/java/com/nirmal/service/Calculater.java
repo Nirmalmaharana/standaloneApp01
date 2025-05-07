@@ -4,8 +4,11 @@ public class Calculater
 {
 	public double doSum(double x,double y)
 	{
+
 		//sum By the Dev 
-		return (x*x)+(y*y)+1-1;
+		//add by float value by TL
+		return (x*x)+(y*y)+0;
+
 	}
 
 }
