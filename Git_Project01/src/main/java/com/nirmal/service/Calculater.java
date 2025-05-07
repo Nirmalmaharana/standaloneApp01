@@ -2,6 +2,11 @@ package com.nirmal.service;
 
 public class Calculater 
 {
+	public Calculater()
+	{
+		super();
+	}
+	
 	public double doSum(double x,double y)
 	{
 
