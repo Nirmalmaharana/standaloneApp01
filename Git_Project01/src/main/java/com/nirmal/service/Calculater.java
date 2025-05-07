@@ -4,7 +4,8 @@ public class Calculater
 {
 	public double doSum(double x,double y)
 	{
-		return (x*x)+(y*y);
+		//add by float value by TL
+		return (x*x)+(y*y)+0;
 	}
 
 }
