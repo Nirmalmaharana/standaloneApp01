@@ -7,5 +7,9 @@ public class NetBanking {
 	public String createNewAccount(String adhar,String acountType,double amount) {
 		return "Acount is opened with "+acountType+" account number is :"+new Random().nextLong(90000000000L)+" , initial amount is :"+amount;
 	}
+	
+	public String withdrow(Double amount ,String accountNo) {
+		return "Money  withdrow from account "+accountNo;
+	}
 
 }
