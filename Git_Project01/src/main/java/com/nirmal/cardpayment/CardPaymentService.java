@@ -6,4 +6,12 @@ public class CardPaymentService {
 		return "INR:- "+amount+" paid by Card card number is "+cardnumber;
 	}
 
+	
+	
+	
+	
+	
+	public String closeAccount() {
+		return "Account is closed";
+	}
 }
