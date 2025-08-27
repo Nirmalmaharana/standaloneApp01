@@ -1,0 +1,7 @@
+.classpath
+.project
+.project
+.setting
+.mvn
+/target
+/src/test/java
